@@ -1,0 +1,32 @@
+type,name,lat,lon,demand_kg
+depot,TPS3R Jambangan,-7.3210,112.7180,0
+pickup,Bank Sampah Melati,-7.3025,112.7240,90
+pickup,Bank Sampah Mawar,-7.2980,112.7155,120
+pickup,Bank Sampah Kenanga,-7.3090,112.7310,80
+pickup,Bank Sampah Anggrek,-7.2945,112.7090,110
+pickup,Bank Sampah Dahlia,-7.3150,112.7050,95
+pickup,Bank Sampah Flamboyan,-7.3200,112.7350,85
+pickup,Bank Sampah Cempaka,-7.2870,112.7200,100
+pickup,Bank Sampah Teratai,-7.3070,112.7420,75
+pickup,Bank Sampah Kamboja,-7.3300,112.7260,115
+pickup,Bank Sampah Bougenville,-7.2920,112.7300,90
+pickup,Bank Sampah Magnolia,-7.3380,112.7140,80
+pickup,Bank Sampah Lavender,-7.2810,112.7130,105
+pickup,Bank Sampah Rosemary,-7.3440,112.7380,70
+pickup,Bank Sampah Jasmine,-7.3010,112.7480,95
+pickup,Bank Sampah Orchid,-7.2760,112.7240,110
+pickup,Bank Sampah Lily,-7.3120,112.7520,85
+pickup,Bank Sampah Tulip,-7.3500,112.7220,75
+pickup,Bank Sampah Peony,-7.2850,112.7380,100
+pickup,Bank Sampah Sakura,-7.3250,112.7450,90
+pickup,Bank Sampah Violet,-7.3170,112.7590,80
+pickup,Bank Sampah Iris,-7.2780,112.7450,95
+pickup,Bank Sampah Aster,-7.3350,112.7530,70
+pickup,Bank Sampah Crysant,-7.2920,112.7550,105
+pickup,Bank Sampah Carnation,-7.3420,112.7480,85
+pickup,Bank Sampah Hibiscus,-7.2700,112.7350,110
+pickup,Bank Sampah Lotus,-7.3050,112.7650,75
+pickup,Bank Sampah Begonia,-7.3290,112.7610,90
+pickup,Bank Sampah Zinnia,-7.2640,112.7480,100
+pickup,Bank Sampah Cosmos,-7.3550,112.7420,80
+pickup,Bank Sampah Clover,-7.3100,112.6950,95
